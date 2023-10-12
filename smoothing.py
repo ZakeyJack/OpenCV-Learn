@@ -1,7 +1,7 @@
 import cv2 as cv
 
-full_img = cv.imread('Photos/ruas_jalan.png')
-img = cv.resize(full_img, (0,0), fx=0.25, fy=0.25)
+full_img = cv.imread('Photos/ruas_area.jpg')
+img = cv.resize(full_img, (0,0), fx=0.120, fy=0.120)
 cv.imshow('Gambar', img)
 
 # Averaging
