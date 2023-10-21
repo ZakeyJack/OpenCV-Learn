@@ -1,6 +1,5 @@
 import cv2 as cv
 import numpy as np
-import os
 
 haar_cascade = cv.CascadeClassifier('haar_face.xml')
 
