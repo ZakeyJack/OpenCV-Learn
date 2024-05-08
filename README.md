@@ -1,2 +1,2 @@
 # OpenCV-Learn
-Learning OpenCV - This is a Private Repo
+Learning OpenCV - Repository of my study.
